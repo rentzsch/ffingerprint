@@ -19,4 +19,4 @@ ffingerprint status
 
 # Clean up.
 cd ..
-# rm -rf ffingerprint-test-dir
+trash ffingerprint-test-dir
