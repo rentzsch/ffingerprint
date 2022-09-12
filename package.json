@@ -7,13 +7,16 @@
   "bin": {
     "ffingerprint": "ffingerprint.js"
   },
-  "files": [
-    "ffingerprint.js"
-  ],
   "scripts": {
     "test": "sh test.sh"
   },
   "engines": {
     "node": ">=12"
+  },
+  "files": [
+    "ffingerprint.js"
+  ],
+  "author": {
+    "name": "Jonathan 'Wolf' Rentzsch"
   }
 }
