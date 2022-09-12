@@ -1,0 +1,16 @@
+{
+  "name": "ffingerprint",
+  "version": "1.0.0",
+  "description": "Simple filesystem change-tracking tool",
+  "repository": "github:rentzsch/ffingerprint",
+  "license": "MIT",
+  "bin": {
+    "ffingerprint": "ffingerprint.js"
+  },
+  "files": [
+    "ffingerprint.js"
+  ],
+  "engines": {
+    "node": ">=12"
+  }
+}
