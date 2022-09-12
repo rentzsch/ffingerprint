@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1] - 2020-08-16
+
+- DEV use `trash` to safely clean up test dir.
+- FIX add package.json test script for socket.dev.
+- FIX LICENSE for socket.dev.
+
 ## [1.0.0] - 2020-08-16
 
 - Renamed from *fingerprint* to *ffingerprint*.
