@@ -1,6 +1,6 @@
 # ffingerprint
 
-**ffingerprint** is a simple command-line tool for tracking file system content changes (file additions, modififications, and deletions).
+**ffingerprint** is a simple command-line tool for tracking file system content changes (file additions, modifications, and deletions).
 
 It does so by writing out a simple `ffingerprint.json` file containing file paths and their SHA-1 hashes.
 
